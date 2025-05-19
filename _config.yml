@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Shae's Portfolio"
 title_separator          : "-"
 subtitle                 : "Data, Code, and Curiosity"
-masthead
+masthead                 :			
 name                     : "Shae Wheeler"
 description              : "A showcase of computational biology projects and coursework"
 url                      : "https://SLWheeler-Colostate.github.io/minimal-mistakes"
